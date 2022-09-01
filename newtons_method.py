@@ -217,3 +217,4 @@ That is worse than before! Since are using fractions, rounding error propagates 
 
 EPSILON = Fraction(1, 10**6)
 
+However, 9.391810573688986e-08 is probably close enough to zero.
